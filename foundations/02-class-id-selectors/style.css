@@ -1,7 +1,8 @@
 
 
 .odd{
-    background-color: red;
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .adjust-font{
@@ -10,9 +11,10 @@
 
 #two{
 color: blue;
+font-size: 36px
 }
 
 #four{
 font-weight: 700;
-background-color: green;
+background-color: lightgreen;
 }
