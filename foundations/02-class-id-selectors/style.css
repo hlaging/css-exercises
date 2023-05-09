@@ -1,10 +1,17 @@
-<!-- index.html -->
 
-p{
+
+.odd{
     background-color: red;
 }
 
-p .3{
-    font-size: 20;
+.adjust-font{
+    font-size: 24;
 }
 
+#two{
+color: blue;
+}
+
+#four{
+font-weight: 700;
+}
